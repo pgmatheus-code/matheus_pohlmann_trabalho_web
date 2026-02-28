@@ -71,6 +71,21 @@ body {
     height: auto;
 }
 
+.img-link {
+  opacity: 0.4;
+  width: 700px;
+  max-width: 100%;
+  height: auto;
+}
+
+.img-link:hover {
+  opacity: 1;
+}
+
+.img-link:active {
+  opacity: 0.8;
+}
+
 .sem-quebra {
     display: inline; /* Ou inline-block */
 }
